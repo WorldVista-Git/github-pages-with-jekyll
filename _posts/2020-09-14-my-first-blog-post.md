@@ -1,3 +1,7 @@
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
 TESTING
 TESTING
 1 2 3
